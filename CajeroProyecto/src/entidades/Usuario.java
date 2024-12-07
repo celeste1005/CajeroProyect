@@ -1,6 +1,6 @@
 
 package entidades;
 
-public class Nodo {
+public class Usuario {
     
 }
